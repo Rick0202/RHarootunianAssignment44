@@ -25,10 +25,7 @@ public class Main {
     
     System.out.println(" \n\nThe length of the perimeter of the hexagon is: " + perimeter);
 
-    
-
-
-    
+       
   }
 
   
